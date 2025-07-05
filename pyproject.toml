@@ -1,0 +1,18 @@
+[project]
+name = "terminallynx"
+version = "0.1.0"
+description = "A terminal-based web browser like Lynx"
+authors = [
+    { name="Your Name", email="your@email.com" }
+]
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.7"
+dependencies = [
+    "requests",
+    "beautifulsoup4",
+    "rich"
+]
+
+[project.scripts]
+terminallynx = "terminallynx.main:main"

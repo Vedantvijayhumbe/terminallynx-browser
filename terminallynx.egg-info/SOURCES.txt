@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+terminallynx/__init__.py
+terminallynx/main.py
+terminallynx.egg-info/PKG-INFO
+terminallynx.egg-info/SOURCES.txt
+terminallynx.egg-info/dependency_links.txt
+terminallynx.egg-info/entry_points.txt
+terminallynx.egg-info/requires.txt
+terminallynx.egg-info/top_level.txt
